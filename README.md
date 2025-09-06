@@ -1,0 +1,2 @@
+This report is consisting of a theoretical and conceptual platform of Recommendation system through integrated models of collecting environmental factors using ESP32-S microcontrollers. Due to which farmers can easily predict, what crop type would be the most suitable for the selected area by collecting the environmental factors and processing them with the trained sub
+models of the main of the system. 
